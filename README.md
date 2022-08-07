@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+    <div id="header" align="center">
+      <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="100"/>
+    <div id="badges">
+      <a href="https://ke.linkedin.com/in/michelle-kinda-a7a476177">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="kindaa.github.ios">
+        <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
+    </div>
+    </div>
 
-You can use the [editor on GitHub](https://github.com/kindaa/kindaa.github.io/blob/main/index.html) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### :man_technologist: About Me:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Hello, I am Kinda Michelle, a data analyst.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+- 🔭 I’m contributing to frontend and backend in building web applications.
+- 🌱 I’m currently learning nodejs.
+- 👯 I’m looking to collaborate on open source projects and applications built on django.
+- 💬 Ask me about anything!
+- 📫 How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Kamemia-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/kamemia_)
+<!-- - ⚡ Fun fact: ...-->
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+### :fire: My Stats :
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kindaa/michelle.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kindaa&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kindaa&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
