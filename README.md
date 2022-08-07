@@ -1,16 +1,11 @@
-
-# Hello
-
-    <div id="header" align="center">
-      <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="100"/>
-    <div id="badges">
-      <a href="https://ke.linkedin.com/in/michelle-kinda-a7a476177">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="kindaa.github.ios">
-        <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
-    </div>
-    </div>
+<div id="badges">
+ <a href="https://ke.linkedin.com/in/michelle-kinda-a7a476177">
+ <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="kindaa.github.ios">
+  <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
+</div>
+</div>
 
 ---
 
