@@ -18,13 +18,10 @@
 
 Hello, I am Kinda Michelle, a data analyst.
 
-
-- 🔭 I’m contributing to frontend and backend in building web applications.
-- 🌱 I’m currently learning nodejs.
-- 👯 I’m looking to collaborate on open source projects and applications built on django.
-- 💬 Ask me about anything!
-- 📫 How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Kamemia-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/kamemia_)
-<!-- - ⚡ Fun fact: ...-->
+- 🌱 I’m currently learning ---.
+- 👯 I’m looking to collaborate on ----.
+- 💬 Ask me ----!
+- 📫 How to reach me:
 
 ---
 
