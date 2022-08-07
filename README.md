@@ -20,8 +20,8 @@ Hello, I am Kinda Michelle, a data analyst.
 
 - 🌱 I’m currently learning ---.
 - 👯 I’m looking to collaborate on ----.
-- 💬 Ask me ----!
-- 📫 How to reach me:
+- 💬 Talk to me about tech and data analytics
+- 📫 How to reach me ---.
 
 ---
 
