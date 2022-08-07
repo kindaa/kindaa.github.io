@@ -1,3 +1,6 @@
+
+# Hello
+
     <div id="header" align="center">
       <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="100"/>
     <div id="badges">
@@ -11,10 +14,7 @@
 
 ---
 
-
-
-### :man_technologist: About Me:
-
+## :woman_technologist: About Me
 
 Hello, I am Kinda Michelle, a data analyst.
 
@@ -25,7 +25,7 @@ Hello, I am Kinda Michelle, a data analyst.
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kindaa&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
